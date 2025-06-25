@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm James
 
-<!--
-**J-Ngei/J-Ngei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Software Engineering | 🌍 GIS Specialist | 📊 Aspiring Machine Learning Engineer
 
-Here are some ideas to get you started:
+I'm passionate about solving real-world problems with geospatial technologies and machine learning. I blend my background in GIS with data science to tackle challenges like flood prediction, housing analysis, and socio-economic modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tools & Technologies
+
+- 📌 Python, Pandas, NumPy, Scikit-learn, PyTorch
+- 📍 GIS: ArcGIS, QGIS, Field Maps, ODK, KoboCollect
+- 📊 Data Visualization: Matplotlib, Seaborn, Plotly
+- 🧠 ML Projects: Classification, Regression, EDA, Forecasting
+- 🌐 Currently exploring: Streamlit, XGBoost, SHAP, Model Deployment
+
+---
+
+## 📂 Featured Projects
+
+- 🏦 [Loan Default Prediction](https://github.com/J-Ngei/Loan-Approval-Prediction)
+- 🎬 [IMDb Movie Analysis](https://github.com/J-Ngei/movie-eda-project)
+- 🏠 [House Price Prediction](https://github.com/J-Ngei/house-price-prediction)
+- 🚢 [Titanic Survival Analysis](https://github.com/J-Ngei/Titanic-Survival-Prediction---Random-Forest)
+
+---
+
+📫 **Connect with me**  
+[LinkedIn](https://www.linkedin.com/in/james-ngei-61461b1a5/) • [GitHub](https://github.com/J-Ngei) • [Email](james.nngei@gmail.com)
