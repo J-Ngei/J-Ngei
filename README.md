@@ -8,11 +8,11 @@ I'm passionate about solving real-world problems with geospatial technologies an
 
 ## 🔧 Tools & Technologies
 
-- 📌 Python, Pandas, NumPy, Scikit-learn, PyTorch
-- 📍 GIS: ArcGIS, QGIS, Field Maps, ODK, KoboCollect
-- 📊 Data Visualization: Matplotlib, Seaborn, Plotly
-- 🧠 ML Projects: Classification, Regression, EDA, Forecasting
-- 🌐 Currently exploring: Streamlit, XGBoost, SHAP, Model Deployment
+- 📌 Data Science: Python, Pandas, NumPy, Scikit-learn, PyTorch
+- 🌍 GIS: ArcGIS, QGIS, Field Maps, Spatial Data Processing, Mapping, Remote Sensing
+- 📊 Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- 🤖 ML: Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
+- 🌐 Currently exploring: Model Deployment
 
 ---
 
