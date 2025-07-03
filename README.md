@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James
 
-🎓 MSc Software Engineering | 🌍 GIS Specialist | 📊 Aspiring Data Scientist
+🎓 MSc Software Engineering | 🌍 GIS Specialist | 📊 Data Scientist
 
 I'm passionate about solving real-world problems with geospatial technologies and machine learning. I blend my background in GIS with data science to tackle challenges like flood prediction, precision medicine, housing analysis, agricultural produce prediction and socio-economic modeling.
 
