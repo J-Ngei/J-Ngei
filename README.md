@@ -2,13 +2,13 @@
 
 🎓 MSc Software Engineering | 🌍 GIS Specialist | 📊 Data Scientist
 
-I'm passionate about solving real-world problems with geospatial technologies and machine learning. I blend my background in GIS with data science to tackle challenges like flood prediction, precision medicine, housing analysis, agricultural produce prediction and socio-economic modeling.
+I'm passionate about solving real-world problems with geospatial technologies, data analytics and machine learning. I blend my background in GIS with data science to tackle challenges like flood prediction, precision medicine, housing analysis, agricultural produce prediction and socio-economic modeling.
 
 ---
 
 ## 🔧 Tools & Technologies
 
-- 📌 Data Science: Python, Pandas, NumPy, Scikit-learn, PyTorch
+- 📌 Data Science: Python, Excel, BI Tools, Pandas, NumPy, Scikit-learn, PyTorch
 - 🌍 GIS: ArcGIS, QGIS, Field Maps, Spatial Data Processing, Mapping, Remote Sensing
 - 📊 Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau
 - 🤖 ML: Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
