@@ -21,8 +21,8 @@ I'm passionate about solving real-world problems with geospatial technologies, d
 - 🏦 [Loan Default Prediction](https://github.com/J-Ngei/Loan-Approval-Prediction)
 - 🎬 [IMDb Movie Analysis](https://github.com/J-Ngei/movie-eda-project)
 - 🏠 [House Price Prediction](https://github.com/J-Ngei/house-price-prediction)
-- 🚢 [Titanic Survival Analysis](https://github.com/J-Ngei/Titanic-Survival-Prediction---Random-Forest)
-
+- 🚢 [Titanic Survival Predictor](https://github.com/J-Ngei/Titanic-Survival-Prediction---Random-Forest)
+- ❤️ [Heart Disease Prediction App](https://github.com/J-Ngei/Heart-Disease-Prediction-App)
 ---
 
 📫 **Connect with me**  
