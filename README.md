@@ -2,7 +2,7 @@
 
 🎓 MSc Software Engineering | 🌍 GIS Specialist | 📊 Data Scientist
 
-I'm passionate about solving real-world problems with geospatial technologies, data analytics and machine learning. I blend my background in GIS with data science to tackle challenges like flood prediction, precision medicine, housing analysis, agricultural produce prediction and socio-economic modeling.
+I'm passionate about solving real-world problems with geospatial technologies, data analytics and machine learning. I'm a multidisciplinary professional with a unique mix of GIS and Data Science. I enjoy building models that help solve societal challenges, from climate resilience to healthcare. I’m currently exploring model deployment and full-stack data apps.
 
 ---
 
@@ -18,11 +18,11 @@ I'm passionate about solving real-world problems with geospatial technologies, d
 
 ## 📂 Featured Projects
 
-- 🏦 [Loan Default Prediction](https://github.com/J-Ngei/Loan-Approval-Prediction)
-- 🎬 [IMDb Movie Analysis](https://github.com/J-Ngei/movie-eda-project)
-- 🏠 [House Price Prediction](https://github.com/J-Ngei/house-price-prediction)
-- 🚢 [Titanic Survival Predictor](https://github.com/J-Ngei/Titanic-Survival-Prediction---Random-Forest)
-- ❤️ [Heart Disease Prediction App](https://github.com/J-Ngei/Heart-Disease-Prediction-App)
+- 🏦 [Loan Default Prediction](https://github.com/J-Ngei/Loan-Approval-Prediction) – A classification model to predict loan approvals based on applicant financial and demographic data. 
+- 🎬 [IMDb Movie Analysis](https://github.com/J-Ngei/movie-eda-project) – Exploratory data analysis on top-rated IMDb movies using Python libraries like Pandas and Seaborn.
+- 🏠 [House Price Prediction](https://github.com/J-Ngei/house-price-prediction) – A model to estimate house prices using features like size, location, and number of rooms.
+- 🚢 [Titanic Survival Predictor](https://github.com/J-Ngei/Titanic-Survival-Prediction---Random-Forest) – Predict passenger survival on the Titanic based on socio-demographic features.
+- ❤️ [Heart Disease Prediction App](https://github.com/J-Ngei/Heart-Disease-Prediction-App) – A Streamlit web app that predicts heart disease risk using user inputs and a trained ML model.
 ---
 
 📫 **Connect with me**  
